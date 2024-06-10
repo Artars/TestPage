@@ -12,3 +12,17 @@ WHERE {
   }
 limit 100
 ```
+
+*Index*
+1. [About me](#about-me)
+2. [Bibliography](#bibliography)
+3. [RLAST](#really-long-and-stupid-title)
+
+## About me
+It's me
+
+## Bibliography
+That's da book
+
+## Really long and stupid title
+And short content
