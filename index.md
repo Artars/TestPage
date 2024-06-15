@@ -42,6 +42,7 @@ WHERE {
 
 Results:
 <details>
+  <summary>Click here to see results</summary>
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
