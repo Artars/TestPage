@@ -27,6 +27,16 @@ That's da book
 ## Really long and stupid title
 And short content
 
+## Test mermaid
+
+```mermaid
+  graph TD;
+      A[Get items with SPARQL]-->B[Get places with SPARQL];
+      B-->C[Send data to ChatGPT];
+      B-->D;
+      C-->D;
+```
+
 ## First test
 
 ```SPARQL
